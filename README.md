@@ -23,3 +23,11 @@ Intuition: if the rectangle is a line that is if x1==x2 || y1==y2 then no overla
 Link: https://leetcode.com/problems/subarray-product-less-than-k/
 
 TC: 0(n)
+
+### Q11: Find Missing and Repeating number
+He
+Link: https://practice.geeksforgeeks.org/viewSol.php?subId=9c9d8c61476dee6f0bcc702835fa1c6c&pid=702678&user=bhelenavjyot18
+
+TC: 0(n) and Space: 0(n)
+
+Intuition: Brute force is obvious but we will have a freq array that stores the freq of each element of the array. Hence we will return an array of two elements with one missing and other repeating which have frequencies of 0 and 2 resp.
