@@ -33,6 +33,14 @@ TC: 0(n) and Space: 0(n)
 
 Intuition: Brute force is obvious but we will have a freq array that stores the freq of each element of the array. Hence we will return an array of two elements with one missing and other repeating which have frequencies of 0 and 2 resp.
 
+### Q12:  Find total number of Squares in a N*N chessboard
+
+Link: https://practice.geeksforgeeks.org/viewSol.php?subId=7725cdb19fb26c8247074902bbdda44b&pid=704775&user=bhelenavjyot18
+
+Tc: 0(n) => 0(1);
+
+Intuition=> formula is n(n+1)(2n+1)/6
+
 ### Q14: Minimum Size Subarray Sum
 
 Link: https://leetcode.com/problems/minimum-size-subarray-sum/
