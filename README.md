@@ -24,6 +24,12 @@ Link: https://leetcode.com/problems/subarray-product-less-than-k/
 
 TC: 0(n)
 
+### Q4: Run Length Encoding 
+
+Link: https://practice.geeksforgeeks.org/viewSol.php?subId=344331c42cd25170e182609fc9d29bf5&pid=700243&user=bhelenavjyot18
+
+TC: 0(n)
+
 
 ### Q11: Find Missing and Repeating number
 
