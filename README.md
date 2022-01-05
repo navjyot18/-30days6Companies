@@ -30,6 +30,13 @@ Link: https://practice.geeksforgeeks.org/viewSol.php?subId=344331c42cd25170e1826
 
 TC: 0(n)
 
+### Q7: Find the kid which gets tha damaged toy
+
+Link: https://practice.geeksforgeeks.org/viewSol.php?subId=4e129ba390bc0447ee62c7961ef4f087&pid=704216&user=bhelenavjyot18
+
+TC: 0(1)
+
+Intuition: Formula based (K-1+M)%N;
 
 ### Q11: Find Missing and Repeating number
 
