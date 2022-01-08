@@ -62,3 +62,15 @@ Tc: 0(n)
 
 Intuition: Sliding window Approche
 
+
+## DAY 6 - 11 (AMAZON)
+
+
+### Q1: Count ways to N'th Stair(Order does not matter)
+
+Link : https://practice.geeksforgeeks.org/viewSol.php?subId=b5321eb5d860b1ceadc03d502c1d41a9&pid=701419&user=bhelenavjyot18
+
+TC : (0(1))
+
+Intuition: find the ans for n=1,2,3,4,5,6,7,8,... and you will see a pattern and come up witj formula of (n/2+1);
+
