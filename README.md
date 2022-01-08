@@ -74,3 +74,11 @@ TC : (0(1))
 
 Intuition: find the ans for n=1,2,3,4,5,6,7,8,... and you will see a pattern and come up witj formula of (n/2+1);
 
+### Q2: Nuts and Bolts Problem 
+
+Link: https://practice.geeksforgeeks.org/viewSol.php?subId=3d3cffc32f8f9c3fb1519e8aa1548819&pid=703024&user=bhelenavjyot18
+
+TC: 0(n) & 0(n)
+
+Intuiton: NA
+
