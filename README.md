@@ -100,6 +100,13 @@ TC: 0(n)
 
 Intuition: Reverse each row and then transpose
 
+### Q6: Letter Combinations of a Phone Number
+
+Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+TC: 0(4^n) // No of leaf nodes * height of tree => Math.pow(recursive call at each node, n) * n => Math.pow(4, n)*n
+
+
 ### Q11: Generate Binary Numbers 
 
 Link: https://practice.geeksforgeeks.org/viewSol.php?subId=97127c93441c30eda3efc403a64afa9a&pid=701347&user=bhelenavjyot18
