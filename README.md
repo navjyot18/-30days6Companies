@@ -82,3 +82,20 @@ TC: 0(n) & 0(n)
 
 Intuiton: NA
 
+
+## DAY 12-17
+
+### Q3: Rotate By 90 degree
+
+Link: https://practice.geeksforgeeks.org/viewSol.php?subId=489bcfc014f626b134704a6ba74aa027&pid=701989&user=bhelenavjyot18
+
+TC: 0(n)
+
+Intuition: Reverse each row and then transpose
+
+### Q11: Generate Binary Numbers 
+
+Link: https://practice.geeksforgeeks.org/viewSol.php?subId=97127c93441c30eda3efc403a64afa9a&pid=701347&user=bhelenavjyot18
+
+TC: 0(Nlog2N)
+
