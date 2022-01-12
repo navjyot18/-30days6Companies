@@ -85,6 +85,13 @@ Intuiton: NA
 
 ## DAY 12-17
 
+
+### Q2: Prerequisite Tasks 
+
+Link: https://practice.geeksforgeeks.org/viewSol.php?subId=9383be384508b247ffbd4aee805c6592&pid=702128&user=bhelenavjyot18
+
+Intuiton: If cycle is present in graph then there is no way to arrange tasks based on their prerequisites else they can be
+
 ### Q3: Rotate By 90 degree
 
 Link: https://practice.geeksforgeeks.org/viewSol.php?subId=489bcfc014f626b134704a6ba74aa027&pid=701989&user=bhelenavjyot18
@@ -98,4 +105,3 @@ Intuition: Reverse each row and then transpose
 Link: https://practice.geeksforgeeks.org/viewSol.php?subId=97127c93441c30eda3efc403a64afa9a&pid=701347&user=bhelenavjyot18
 
 TC: 0(Nlog2N)
-
