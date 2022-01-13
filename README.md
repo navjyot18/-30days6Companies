@@ -38,6 +38,14 @@ TC: 0(1)
 
 Intuition: Formula based (K-1+M)%N;
 
+### Q10 : Stickler Thief 
+
+Link: https://practice.geeksforgeeks.org/viewSol.php?subId=69adac43dabf0956caf9cfdf72282209&pid=701417&user=bhelenavjyot18
+
+TC: 0(n)
+
+Intuiton: At each stage we have two choices to rob the house and not rob the house , if robbed, add curr value and if skipped then jump to next's next index and return max of those two choices
+
 ### Q11: Find Missing and Repeating number
 
 Link: https://practice.geeksforgeeks.org/viewSol.php?subId=9c9d8c61476dee6f0bcc702835fa1c6c&pid=702678&user=bhelenavjyot18
