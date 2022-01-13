@@ -112,3 +112,11 @@ TC: 0(4^n) // No of leaf nodes * height of tree => Math.pow(recursive call at ea
 Link: https://practice.geeksforgeeks.org/viewSol.php?subId=97127c93441c30eda3efc403a64afa9a&pid=701347&user=bhelenavjyot18
 
 TC: 0(Nlog2N)
+
+### Q13: Given a Graph of V vertices and E edges and another edge(c - d), the task is to find if the given edge is a Bridge. i.e., removing the edge disconnects the graph.
+
+Link: https://practice.geeksforgeeks.org/viewSol.php?subId=ac3aa17ef2d374e99ad2647d11a8acbb&pid=700463&user=bhelenavjyot18
+
+TC: 0(N+V)
+
+Intuition: If the number of components at start is less than number of components after removing edge from c to d and d to c then c - d was an edge else not
