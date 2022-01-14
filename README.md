@@ -121,6 +121,12 @@ Link: https://practice.geeksforgeeks.org/viewSol.php?subId=97127c93441c30eda3efc
 
 TC: 0(Nlog2N)
 
+### Q12: 4Sum
+
+Link: https://leetcode.com/submissions/detail/619625044/
+
+TC: 0(N^3)
+
 ### Q13: Given a Graph of V vertices and E edges and another edge(c - d), the task is to find if the given edge is a Bridge. i.e., removing the edge disconnects the graph.
 
 Link: https://practice.geeksforgeeks.org/viewSol.php?subId=ac3aa17ef2d374e99ad2647d11a8acbb&pid=700463&user=bhelenavjyot18
