@@ -122,6 +122,14 @@ Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
 TC: 0(4^n) // No of leaf nodes * height of tree => Math.pow(recursive call at each node, n) * n => Math.pow(4, n)*n
 
+### Q7: 695. Max Area of Island
+
+Link: https://leetcode.com/submissions/detail/620189536/
+
+TC: 0(N^2)
+
+Intuition: Area originating from current cell is 1 plus the total area originated from the cell to its left, right, up and down
+
 
 ### Q11: Generate Binary Numbers 
 
