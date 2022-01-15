@@ -108,6 +108,14 @@ TC: 0(n)
 
 Intuition: Reverse each row and then transpose
 
+### Q4: Spirally traversing a matrix 
+
+Link: Leetcode 
+
+TC: 0(N*N)
+
+Intuition: Dry run the matrix and you will come up with an approch
+
 ### Q6: Letter Combinations of a Phone Number
 
 Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
