@@ -130,6 +130,15 @@ TC: 0(N^2)
 
 Intuition: Area originating from current cell is 1 plus the total area originated from the cell to its left, right, up and down
 
+### Q8:  Populating Next Right Pointers in Each Node
+
+Link: https://leetcode.com/submissions/detail/620266732/
+
+TC: 0(No of Nodes)
+
+Intuition: Do the level order traversal and store nodes in the for of list of list of nodes where each index represents the list which depicts all the nodes at level=index.
+then traverse the list and set the nextRight pointer of current node to the next node present in current list
+
 
 ### Q11: Generate Binary Numbers 
 
